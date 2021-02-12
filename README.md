@@ -28,7 +28,7 @@ use cases.
 
 ### Blockchain & Coin Specifications
 <table>
-<tr><td>Ticker</td><td>ZNZ</td></tr>
+<tr><td>Ticker</td><td>XOS</td></tr>
 <tr><td>Maximum Coin Supply</td><td>∞</td></tr>  
 <tr><td>Consensus Algorithm</td><td>Proof of Stake (PoS)</td></tr>
 <tr><td>Hashing Algorithm</td><td>Xevan</td></tr>
@@ -47,8 +47,8 @@ use cases.
 
 ### Block Rewards (XOS)
 <table>
-<tr><td>Block 1</td><td>16,800,000</td></tr>
-<tr><td>Block 2 - 400</td><td>0.01</td></tr>
+<tr><td>Block 1</td><td>700,000</td></tr>
+<tr><td>Block 2 - xxx</td><td>0.01</td></tr>
 <tr><td>Block 401 - 10,000</td><td>15</td></tr>
 <tr><td>Block 10,001 - 50,000</td><td>13</td></tr>
 <tr><td>Block 50,001 - 100,000</td><td>11</td></tr>
